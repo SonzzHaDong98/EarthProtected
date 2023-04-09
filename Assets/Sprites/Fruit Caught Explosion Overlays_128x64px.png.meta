@@ -1,0 +1,1425 @@
+fileFormatVersion: 2
+guid: 1166622d25407034a927be147afd4248
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 320
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d618c1e930e204490e51d4c3a74dab
+      internalID: -116868259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd74c163680f74ead51eb012508be0
+      internalID: -1204598265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 92
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fcfbdcf04d6d844b163f6ea43c0660
+      internalID: 1378105067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 284
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92be5881fb72cf42beb190c047a88df
+      internalID: 611422440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 320
+        width: 92
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ccf9295278444e9552dfec5a07399
+      internalID: -1024808912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 256
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f4fbd537985d4f84670c443052fec
+      internalID: -537711325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 220
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11945507405f5743adec2767d4b64da
+      internalID: 549767432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 92
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59a77ca31ddcf4d9fcca96f61d0228
+      internalID: -144559988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa5e2cf9acc2044a882385c0778ade
+      internalID: 570439811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 156
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1de383a32d534cb93e1ba43290665
+      internalID: 1734037960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 192
+        width: 92
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133a0e45e9bd00488b9af65a34f5bf2
+      internalID: 710861124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c330897d0d07449ad073420500feb
+      internalID: 1528287582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f62663f8d763346956bed4f4911b17
+      internalID: -1365703625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467efc0be5f51de41bc6fd534a6fe48d
+      internalID: 350337011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c564c20002540647b4a5033cc90bf7e
+      internalID: -1762086841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 100
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f16bcd6f6ee64419a167a9e1a654b6
+      internalID: -1680879888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 106
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3042e7c9178b43a80da2805ad7e1f
+      internalID: -908739420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569d960cfe84404887f35a848c49d03
+      internalID: -760006124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112305ec6f92efe4db1543f02467baea
+      internalID: 425041704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 103
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f7476be19c4749ad1ea01e8b03a01
+      internalID: 943396114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 107
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8051174d0ee5945aaefb480501735c
+      internalID: 210689660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_21
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1a3b1a680f6d4d808cdca8fe37e86
+      internalID: 918300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3ee2c2150069548a82b5988baad2be
+      internalID: -1712709033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795fc8cdaec943419a2e23f926ac3d1
+      internalID: -1139703029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_24
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f527b85159e3a4b960f9f1717ddcb5
+      internalID: -2100848733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_25
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5bf1dfb864c24ebef7e3c31b4266e
+      internalID: 286425553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411bbe87282bf394a87ccf3f91cc5323
+      internalID: 1753034605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 87
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264bb4e9efd84f4b8ee71d2bff349ad
+      internalID: 427026966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b348aa0a7a99d44ac0388f5efec709
+      internalID: -1652152625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 87
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d352343b897b74ca99d47f5eb736a2
+      internalID: 1781852228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1e7b25c2483747b3bc66baa82ced2
+      internalID: -984182617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0736942d40df456408e18ff0f6a2c8fc
+      internalID: -1041923525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b5dab09fda8946a44e43357158595
+      internalID: -2024476799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_33
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 77
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ed826e1834164082ea3076a638980
+      internalID: -682397631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_34
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 77
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b9a2e8232f804a9b90c1bd108c1b5
+      internalID: -1079066585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd41713654a3bf469d3f5e5fd8143f7
+      internalID: 822371199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 36
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09d12fdb77043439094b74c6a7e6fb
+      internalID: 776445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_37
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 42
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454fa6a370e185d41acb8ba448ecce50
+      internalID: 2120785162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_38
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed052c047b1defb4488b0fa66b9a289a
+      internalID: 1818065875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_39
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b151b5cda6a1874796cbd015b6bfc5b
+      internalID: 2022207854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 39
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c09a069c298a42afbf5c268017928
+      internalID: 1801320635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_41
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 43
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f264dc9837254aa933b835b9378c7
+      internalID: 978730170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_42
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2a4b0b959e7e449100fa32f10dc85
+      internalID: 557390525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878fb24b673952149ad22efda7c3bd3d
+      internalID: -1144827959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_44
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390d225bbc2ad04084688ebb8a6f171
+      internalID: -1905560453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_45
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383ec8dd992290499eccb10cb4d9039
+      internalID: -801138994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_46
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01cd084c233ce54b91b3504f861030e
+      internalID: 506961315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18050707259ce14459aaa38a60aa2eb3
+      internalID: 2070966024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_48
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1333200523c9d48a8f8a64fb2a31f6
+      internalID: -1712227136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_49
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 20
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daea4f711dd4434d84e13a73b1a6cb9
+      internalID: -1975480230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_50
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db61bcb2fd18a4f8ffd2f484409c26
+      internalID: 2111175609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73be7f4e5d23654091fe05adb952ba6
+      internalID: -1308391310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_52
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc5f71863b02f4891e5e526635fc9e
+      internalID: 1516924493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_53
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736d75d0b2531b43b9fb270737454bf
+      internalID: -1392480627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_54
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 13
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d849ece878e5534c96586ebdaeec4b8
+      internalID: 1041564649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_55
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 13
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5833822ae0ca2499461dcdca91a6f6
+      internalID: -788388145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Caught Explosion Overlays_128x64px_56
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 92
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55babb59bac2146a89b5d421e24d5c
+      internalID: 382482697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fruit Caught Explosion Overlays_128x64px_0: -116868259
+      Fruit Caught Explosion Overlays_128x64px_1: -1204598265
+      Fruit Caught Explosion Overlays_128x64px_10: 710861124
+      Fruit Caught Explosion Overlays_128x64px_11: 1528287582
+      Fruit Caught Explosion Overlays_128x64px_12: -1365703625
+      Fruit Caught Explosion Overlays_128x64px_13: 350337011
+      Fruit Caught Explosion Overlays_128x64px_14: -1762086841
+      Fruit Caught Explosion Overlays_128x64px_15: -1680879888
+      Fruit Caught Explosion Overlays_128x64px_16: -908739420
+      Fruit Caught Explosion Overlays_128x64px_17: -760006124
+      Fruit Caught Explosion Overlays_128x64px_18: 425041704
+      Fruit Caught Explosion Overlays_128x64px_19: 943396114
+      Fruit Caught Explosion Overlays_128x64px_2: 1378105067
+      Fruit Caught Explosion Overlays_128x64px_20: 210689660
+      Fruit Caught Explosion Overlays_128x64px_21: 918300378
+      Fruit Caught Explosion Overlays_128x64px_22: -1712709033
+      Fruit Caught Explosion Overlays_128x64px_23: -1139703029
+      Fruit Caught Explosion Overlays_128x64px_24: -2100848733
+      Fruit Caught Explosion Overlays_128x64px_25: 286425553
+      Fruit Caught Explosion Overlays_128x64px_26: 1753034605
+      Fruit Caught Explosion Overlays_128x64px_27: 427026966
+      Fruit Caught Explosion Overlays_128x64px_28: -1652152625
+      Fruit Caught Explosion Overlays_128x64px_29: 1781852228
+      Fruit Caught Explosion Overlays_128x64px_3: 611422440
+      Fruit Caught Explosion Overlays_128x64px_30: -984182617
+      Fruit Caught Explosion Overlays_128x64px_31: -1041923525
+      Fruit Caught Explosion Overlays_128x64px_32: -2024476799
+      Fruit Caught Explosion Overlays_128x64px_33: -682397631
+      Fruit Caught Explosion Overlays_128x64px_34: -1079066585
+      Fruit Caught Explosion Overlays_128x64px_35: 822371199
+      Fruit Caught Explosion Overlays_128x64px_36: 776445357
+      Fruit Caught Explosion Overlays_128x64px_37: 2120785162
+      Fruit Caught Explosion Overlays_128x64px_38: 1818065875
+      Fruit Caught Explosion Overlays_128x64px_39: 2022207854
+      Fruit Caught Explosion Overlays_128x64px_4: -1024808912
+      Fruit Caught Explosion Overlays_128x64px_40: 1801320635
+      Fruit Caught Explosion Overlays_128x64px_41: 978730170
+      Fruit Caught Explosion Overlays_128x64px_42: 557390525
+      Fruit Caught Explosion Overlays_128x64px_43: -1144827959
+      Fruit Caught Explosion Overlays_128x64px_44: -1905560453
+      Fruit Caught Explosion Overlays_128x64px_45: -801138994
+      Fruit Caught Explosion Overlays_128x64px_46: 506961315
+      Fruit Caught Explosion Overlays_128x64px_47: 2070966024
+      Fruit Caught Explosion Overlays_128x64px_48: -1712227136
+      Fruit Caught Explosion Overlays_128x64px_49: -1975480230
+      Fruit Caught Explosion Overlays_128x64px_5: -537711325
+      Fruit Caught Explosion Overlays_128x64px_50: 2111175609
+      Fruit Caught Explosion Overlays_128x64px_51: -1308391310
+      Fruit Caught Explosion Overlays_128x64px_52: 1516924493
+      Fruit Caught Explosion Overlays_128x64px_53: -1392480627
+      Fruit Caught Explosion Overlays_128x64px_54: 1041564649
+      Fruit Caught Explosion Overlays_128x64px_55: -788388145
+      Fruit Caught Explosion Overlays_128x64px_56: 382482697
+      Fruit Caught Explosion Overlays_128x64px_6: 549767432
+      Fruit Caught Explosion Overlays_128x64px_7: -144559988
+      Fruit Caught Explosion Overlays_128x64px_8: 570439811
+      Fruit Caught Explosion Overlays_128x64px_9: 1734037960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
