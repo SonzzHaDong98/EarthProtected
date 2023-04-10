@@ -13,6 +13,9 @@ public class SpaceShip : MonoBehaviour
 
     private bool pushSpaceShip;
     private float turnDirection;
+    private bool push = false;
+    private bool moveLeft = false;
+    private bool moveRight = false;
 
     private Rigidbody2D rb;
     GameManager gm;
@@ -47,17 +50,22 @@ public class SpaceShip : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (pushSpaceShip)
+        if (push == true)
         {
-            PushSpaceShip();        
+            rb.AddForce(transform.up * pushSpeed);                 
         }
-        if(turnDirection != 0)
+
+        if(moveLeft == true)
         {
+            turnDirection = 1.0f;
             rb.AddTorque(turnDirection * turnSpeed);
         }
 
-        TurnSpaceShipLeft(); 
-        TurnSpaceShipRight();
+        if(moveRight==true)
+        {
+            turnDirection = -1.0f;
+            rb.AddTorque(turnDirection * turnSpeed);
+        }   
     }
 
     public void Shoot()
@@ -67,21 +75,19 @@ public class SpaceShip : MonoBehaviour
         bullet.Projectile(transform.up);
     }
 
-    public void PushSpaceShip()
+    public void PushSpaceShip(bool pushShip)
     {
-        rb.AddForce(transform.up * pushSpeed);
+        push = pushShip;
     }
 
-    public void TurnSpaceShipLeft()
+    public void TurnSpaceShipLeft(bool left)
     {
-        turnDirection = 1.0f;
-        rb.AddTorque(turnDirection * turnSpeed);
-        
+        moveLeft = left;
     }
 
-    public void TurnSpaceShipRight()
+    public void TurnSpaceShipRight(bool right)
     {
-        turnDirection = -1.0f;
-        rb.AddTorque(turnDirection * turnSpeed);            
+        moveRight = right;
+           
     }
 }
